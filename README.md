@@ -24,8 +24,7 @@ This repository contains the assignments I completed as part of the Computer Net
    - **Description**: This program uses TCP and UDP sockets in a wired network to perform the following tasks:
      - Say Hello to Each Other
      - File Transfer
-   - **File Name for TCP**: `tcpclient.c` and `tcpserver.c`
-   - **File Name for UDP**: `udpclient.c` and `udpserver.c`
+   - **Folder Name**: `TCP` and `UDP`
 
 6. **DNS Lookup Program**
    - **Description**: This program performs DNS lookup, where given an IP address as input, it returns the corresponding URL and vice-versa. It helps in understanding how DNS servers resolve domain names to IP addresses.
